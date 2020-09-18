@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.exe
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.deps.json
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.dll
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\bin\Debug\netcoreapp3.1\JurosSimples.pdb
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.dll
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.pdb
+C:\Users\Max Leonel\Desktop\JurosSimples\JurosSimples\obj\Debug\netcoreapp3.1\JurosSimples.genruntimeconfig.cache
